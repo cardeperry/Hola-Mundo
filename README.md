@@ -1,2 +1,5 @@
 # Hola-Mundo
-Mi primer repository
+
+Hola! 
+
+Quiero apreder mas sobre programacion.
